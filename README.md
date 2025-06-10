@@ -37,7 +37,7 @@ The application will open in your default web browser at `http://localhost:8501`
 2. Once uploaded, you'll see the file details
 3. Click the "Convert to Text" button to start the conversion
 4. After conversion, you can:
-   - View the transcribed text directly in the browser
+   - View the transcribed text directly in the browser 
    - Download the transcribed text as a text file
 
 ## Requirements
@@ -53,3 +53,4 @@ The application will open in your default web browser at `http://localhost:8501`
 ## Note
 
 This application uses Google's Speech Recognition API for transcription. Make sure you have a stable internet connection for the transcription to work properly. 
+
